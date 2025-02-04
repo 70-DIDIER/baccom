@@ -18,17 +18,17 @@ export function Navbar(){
       </button>
       <div className="collapse navbar-collapse" id="navbarCollapse">
         <div className="navbar-nav ms-auto py-0">
-          <a href="../pages/Home.jsx" className="nav-item nav-link active">
+          <a href="#home" className="nav-item nav-link active">
             Home
           </a>
-          <a href="../pages/About.jsx" className="nav-item nav-link">
+          <a href="#about" className="nav-item nav-link">
             About
           </a>
-          <a href="service.html" className="nav-item nav-link">
+          <a href="#service" className="nav-item nav-link">
             Service
           </a>
           
-          <a href="contact.html" className="nav-item nav-link">
+          <a href="#contact" className="nav-item nav-link">
             Contact
           </a>
         </div>

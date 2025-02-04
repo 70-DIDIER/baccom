@@ -17,16 +17,16 @@ export default function Footer(){
 
         </p>
         <p>
-          <i className="fa fa-map-marker-alt me-2" />
-          123 Street, New York, USA
+          <i className="fa fa-map-marker-alt me-2 text-secondary" />
+          Kégué, Lomé-TOGO
         </p>
         <p>
-          <i className="fa fa-phone-alt me-2" />
-          +012 345 67890
+          <i className="fa fa-phone-alt me-2 text-secondary" />
+          +228 90 42 37 22 /  97 70 71 26
         </p>
         <p>
-          <i className="fa fa-envelope me-2" />
-          info@example.com
+          <i className="fa fa-envelope me-2 text-secondary" />
+          baccombtp@gmail.com
         </p>
         <div className="d-flex justify-content-start mt-4">
           <a
@@ -61,50 +61,36 @@ export default function Footer(){
             <h4 className="text-white text-uppercase mb-4">Quick Links</h4>
             <div className="d-flex flex-column justify-content-start">
               <a className="text-white-50 mb-2" href="#">
-                <i className="fa fa-angle-right me-2" />
+                <i className="fa fa-angle-right me-2 text-secondary" />
                 Home
               </a>
               <a className="text-white-50 mb-2" href="#">
-                <i className="fa fa-angle-right me-2" />
+                <i className="fa fa-angle-right me-2 text-secondary" />
                 About Us
               </a>
               <a className="text-white-50 mb-2" href="#">
-                <i className="fa fa-angle-right me-2" />
+                <i className="fa fa-angle-right me-2 text-secondary" />
                 Our Services
               </a>
-              <a className="text-white-50 mb-2" href="#">
-                <i className="fa fa-angle-right me-2" />
-                Meet The Team
-              </a>
-              <a className="text-white-50" href="#">
-                <i className="fa fa-angle-right me-2" />
-                Contact Us
-              </a>
+              
             </div>
           </div>
           <div className="col-sm-6">
             <h4 className="text-white text-uppercase mb-4">Popular Links</h4>
             <div className="d-flex flex-column justify-content-start">
               <a className="text-white-50 mb-2" href="#">
-                <i className="fa fa-angle-right me-2" />
+                <i className="fa fa-angle-right me-2 text-secondary" />
                 Home
               </a>
               <a className="text-white-50 mb-2" href="#">
-                <i className="fa fa-angle-right me-2" />
+                <i className="fa fa-angle-right me-2 text-secondary" />
                 About Us
               </a>
               <a className="text-white-50 mb-2" href="#">
-                <i className="fa fa-angle-right me-2" />
+                <i className="fa fa-angle-right me-2 text-secondary" />
                 Our Services
               </a>
-              <a className="text-white-50 mb-2" href="#">
-                <i className="fa fa-angle-right me-2" />
-                Meet The Team
-              </a>
-              <a className="text-white-50" href="#">
-                <i className="fa fa-angle-right me-2" />
-                Contact Us
-              </a>
+              
             </div>
           </div>
           
@@ -136,5 +122,5 @@ export default function Footer(){
   {/* Footer End */}
 </>
 
-    )
+  )
 }

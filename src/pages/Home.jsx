@@ -5,7 +5,7 @@ export default function Home() {
     return (
         <>
             {/* Carousel Start */}
-            <div className="container-fluid p-0">
+            <div className="container-fluid p-0" id='home'>
                 <div
                     id="header-carousel"
                     className="carousel slide carousel-fade"

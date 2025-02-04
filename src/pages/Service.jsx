@@ -9,10 +9,10 @@ export default function Service(){
     return (
         <>
   {/* Services Start */}
-  <div className="container-fluid bg-light py-6 px-5">
+  <div className="container-fluid bg-light py-6 px-5" id='service'>
     <div className="text-center mx-auto mb-5" style={{ maxWidth: 600 }}>
       <h1 className="display-5 text-uppercase mb-4">
-        Nos <span className="text-primary">divers</span> Réalisation
+        Nos <span className="text-primary">divers</span> Services
       </h1>
     </div>
     <div className="row g-5">
@@ -23,7 +23,7 @@ export default function Service(){
             <i className="fa fa-3x fa-building text-primary" />
           </div>
           <div className="px-4 pb-4">
-            <h4 className="text-uppercase mb-3">Building Construction</h4>
+            <h4 className="text-uppercase mb-3">Etude de terrain</h4>
             <p>
               Duo dolore et diam sed ipsum stet amet duo diam. Rebum amet ut
               amet sed erat sed sed amet magna elitr amet kasd diam duo
@@ -41,7 +41,7 @@ export default function Service(){
             <i className="fa fa-3x fa-home text-primary" />
           </div>
           <div className="px-4 pb-4">
-            <h4 className="text-uppercase mb-3">House Renovation</h4>
+            <h4 className="text-uppercase mb-3">Location et vente des terrains et maisons</h4>
             <p>
               Duo dolore et diam sed ipsum stet amet duo diam. Rebum amet ut
               amet sed erat sed sed amet magna elitr amet kasd diam duo
@@ -59,7 +59,7 @@ export default function Service(){
             <i className="fa fa-3x fa-drafting-compass text-primary" />
           </div>
           <div className="px-4 pb-4">
-            <h4 className="text-uppercase mb-3">Architecture Design</h4>
+            <h4 className="text-uppercase mb-3">Conceptions des plans</h4>
             <p>
               Duo dolore et diam sed ipsum stet amet duo diam. Rebum amet ut
               amet sed erat sed sed amet magna elitr amet kasd diam duo
@@ -77,7 +77,7 @@ export default function Service(){
             <i className="fa fa-3x fa-palette text-primary" />
           </div>
           <div className="px-4 pb-4">
-            <h4 className="text-uppercase mb-3">Interior Design</h4>
+            <h4 className="text-uppercase mb-3">Formation et divers</h4>
             <p>
               Duo dolore et diam sed ipsum stet amet duo diam. Rebum amet ut
               amet sed erat sed sed amet magna elitr amet kasd diam duo
@@ -95,7 +95,7 @@ export default function Service(){
             <i className="fa fa-3x fa-tools text-primary" />
           </div>
           <div className="px-4 pb-4">
-            <h4 className="text-uppercase mb-3">Fixing &amp; Support</h4>
+            <h4 className="text-uppercase mb-3">Execution &amp; suivi du projet </h4>
             <p>
               Duo dolore et diam sed ipsum stet amet duo diam. Rebum amet ut
               amet sed erat sed sed amet magna elitr amet kasd diam duo
@@ -113,7 +113,7 @@ export default function Service(){
             <i className="fa fa-3x fa-paint-brush text-primary" />
           </div>
           <div className="px-4 pb-4">
-            <h4 className="text-uppercase mb-3">Painting</h4>
+            <h4 className="text-uppercase mb-3">Desin batiment</h4>
             <p>
               Duo dolore et diam sed ipsum stet amet duo diam. Rebum amet ut
               amet sed erat sed sed amet magna elitr amet kasd diam duo
