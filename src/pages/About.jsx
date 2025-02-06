@@ -10,13 +10,10 @@ export default function About(){
          <span className="text-primary">BACCOM</span>  BTP TOGO
         </h1>
         <h4 className="text-uppercase mb-3 text-body">
-          Bureau architecture  de conception pour la construction moderne
+          Bureau d`architecture  de conception pour la construction moderne
         </h4>
-        <p>
-          Tempor erat elitr at rebum at at clita aliquyam consetetur. Diam dolor
-          diam ipsum et, tempor voluptua sit consetetur sit. Aliquyam diam amet
-          diam et eos sadipscing labore. Clita erat ipsum et lorem et sit, sed
-          stet no labore lorem sit. Sanctus clita duo justo et tempor
+        <p style={{fontWeight:'bold'}}>
+          Nous intervenons dans les domaines suivantes:
         </p>
         <div className="row gx-5 py-2">
           <div className="col-sm-6 mb-2">

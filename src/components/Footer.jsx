@@ -12,7 +12,7 @@ export default function Footer(){
           </h1>
         </a>
         <p>
-        Bureau Architecture de Conception pour la Construction Moderne 
+        Bureau d`Architecture de Conception pour la Construction Moderne 
 
 
         </p>
@@ -106,13 +106,13 @@ export default function Footer(){
           <a className="text-primary" href="#">
             BACCOM
           </a>
-          . All Rights Reserved.
+          .Tous droits reservées
         </p>
       </div>
       <div className="py-4 px-5 bg-primary footer-shape position-relative text-center text-md-end">
         <p className="mb-0">
           Designed by{" "}
-          <a className="text-dark" href="https://htmlcodex.com">
+          <a className="text-dark" href="https://www.linkedin.com/in/koffi-didier-guinwogbegno">
             Didier GUIN
           </a>
         </p>

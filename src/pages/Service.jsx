@@ -25,8 +25,7 @@ export default function Service(){
           <div className="px-4 pb-4">
             <h4 className="text-uppercase mb-3">Etude de terrain</h4>
             <p>
-              Duo dolore et diam sed ipsum stet amet duo diam. Rebum amet ut
-              amet sed erat sed sed amet magna elitr amet kasd diam duo
+            Analyse et évaluation des terrains pour assurer la viabilité de votre projet.
             </p>
             <a className="btn text-primary" href="">
               Read More <i className="bi bi-arrow-right" />
@@ -43,8 +42,7 @@ export default function Service(){
           <div className="px-4 pb-4">
             <h4 className="text-uppercase mb-3">Location et vente des terrains et maisons</h4>
             <p>
-              Duo dolore et diam sed ipsum stet amet duo diam. Rebum amet ut
-              amet sed erat sed sed amet magna elitr amet kasd diam duo
+            Trouvez et acquérez facilement des terrains et maisons adaptés à vos besoins.
             </p>
             <a className="btn text-primary" href="">
               Read More <i className="bi bi-arrow-right" />
@@ -61,8 +59,7 @@ export default function Service(){
           <div className="px-4 pb-4">
             <h4 className="text-uppercase mb-3">Conceptions des plans</h4>
             <p>
-              Duo dolore et diam sed ipsum stet amet duo diam. Rebum amet ut
-              amet sed erat sed sed amet magna elitr amet kasd diam duo
+            Création de plans architecturaux optimisés pour vos projets de construction.
             </p>
             <a className="btn text-primary" href="">
               Read More <i className="bi bi-arrow-right" />
@@ -79,8 +76,7 @@ export default function Service(){
           <div className="px-4 pb-4">
             <h4 className="text-uppercase mb-3">Formation et divers</h4>
             <p>
-              Duo dolore et diam sed ipsum stet amet duo diam. Rebum amet ut
-              amet sed erat sed sed amet magna elitr amet kasd diam duo
+            Programmes de formation pour renforcer vos compétences en bâtiment et construction.
             </p>
             <a className="btn text-primary" href="">
               Read More <i className="bi bi-arrow-right" />
@@ -97,8 +93,7 @@ export default function Service(){
           <div className="px-4 pb-4">
             <h4 className="text-uppercase mb-3">Execution &amp; suivi du projet </h4>
             <p>
-              Duo dolore et diam sed ipsum stet amet duo diam. Rebum amet ut
-              amet sed erat sed sed amet magna elitr amet kasd diam duo
+            Gestion complète de votre projet, de la conception à la réalisation finale.
             </p>
             <a className="btn text-primary" href="">
               Read More <i className="bi bi-arrow-right" />
@@ -115,8 +110,7 @@ export default function Service(){
           <div className="px-4 pb-4">
             <h4 className="text-uppercase mb-3">Desin batiment</h4>
             <p>
-              Duo dolore et diam sed ipsum stet amet duo diam. Rebum amet ut
-              amet sed erat sed sed amet magna elitr amet kasd diam duo
+            Conception architecturale moderne et adaptée à vos besoins.
             </p>
             <a className="btn text-primary" href="">
               Read More <i className="bi bi-arrow-right" />
