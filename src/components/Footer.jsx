@@ -8,7 +8,7 @@ export default function Footer(){
         <a href="index.html" className="navbar-brand">
           <h1 className="m-0 display-4 text-uppercase text-white">
             <i className="bi bi-building text-primary me-2" />
-            BACCOM
+            BACCOM BTP TOGO
           </h1>
         </a>
         <p>
