@@ -104,7 +104,7 @@ export default function Footer(){
         <p className="mb-0">
           ©{" "}
           <a className="text-primary" href="#">
-            BACCOM
+            BACCOM BTP TOGO
           </a>
           .Tous droits reservées
         </p>
