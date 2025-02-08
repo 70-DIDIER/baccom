@@ -1,5 +1,5 @@
-import image1 from '../images/carousel-1.jpg';
-import image2 from '../images/carousel-2.jpg';
+import image1 from '../images/carousel-1.webp';
+import image2 from '../images/carousel-2.webp';
 
 export default function Home() {
     return (
