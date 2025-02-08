@@ -19,13 +19,13 @@ export function Navbar(){
       <div className="collapse navbar-collapse" id="navbarCollapse">
         <div className="navbar-nav ms-auto py-0">
           <a href="#home" className="nav-item nav-link active">
-            Home
-          </a>
-          <a href="#about" className="nav-item nav-link">
-            About
+            Acceuil
           </a>
           <a href="#service" className="nav-item nav-link">
             Service
+          </a>
+          <a href="#about" className="nav-item nav-link">
+            A propos
           </a>
           
           <a href="#contact" className="nav-item nav-link">
